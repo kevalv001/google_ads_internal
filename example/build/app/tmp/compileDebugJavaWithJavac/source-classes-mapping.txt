@@ -1,0 +1,8 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+io/flutter/plugins/googlemobileadsexample/NativeAdFactoryExample.java
+ io.flutter.plugins.googlemobileadsexample.NativeAdFactoryExample
+io/flutter/plugins/googlemobileadsexample/MainActivity.java
+ io.flutter.plugins.googlemobileadsexample.MainActivity
+io/flutter/plugins/googlemobileadsexample/BuildConfig.java
+ io.flutter.plugins.googlemobileadsexample.BuildConfig
